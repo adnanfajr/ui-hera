@@ -62,7 +62,9 @@
             <div class="header-bottom">
                 <div class="top-nav">
                     <span class="menu">
+                        <!--
                         <img src="images/menu.png"/>
+                        -->
                     </span>
                     <ul>
                         <!-- <li class="active"><a href="index.html">HOME</a> </li> -->
