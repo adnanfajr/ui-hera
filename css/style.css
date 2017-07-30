@@ -118,7 +118,7 @@ ul.social-in li  i.youtube:hover{
 }
 /*----*/
 .top-nav span.menu:before{
-	content: url(../images/menu.png)no-repeat 0px 0px;
+	/* content: url(../images/menu.png)no-repeat 0px 0px; */
 	cursor:pointer;	
 	width:100%;
 }
