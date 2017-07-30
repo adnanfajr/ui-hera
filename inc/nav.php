@@ -4,7 +4,7 @@
         <div class="header">
             <div class="header-top">
                 <div class="logo">
-                    <a href="index.php"><img src="images/logo.png" alt="" ></a>
+                    <a href="index.php"><img src="images/logo.jpg" alt="" ></a>
                 </div>
                 <div class="header-top-on">
                     <ul class="icon1">
